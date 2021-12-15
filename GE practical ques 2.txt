@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<title><b>GE Practical-2</b></title>
+</head>
+<body style="background-color:lightgray">
+<h1 id="top">Path to different Sections of this Page</h1>
+<section>
+<ul>
+<li><a href="#section1">Famous Players of Cricket</a></li>
+<li><a href="#section2">Famous Players of Football</a></li>
+<li><a href="#section3">Famous Players of Badminton</a></li>
+</ul>
+</section><hr>
+<h2>Benefits of Sports (Ordered List)</h2>
+<ol>
+<li>Recreation</li>
+<li>Keeps us Fit and healthy</li>
+<li>Stress Reliever</li>
+</ol>
+<hr>
+<h2>Unordered List</h2>
+<ul>
+<li>Recreation</li>
+<li>Keeps us Fit and healthy</li>
+<li>Stress Reliever</li>
+</ul>
+<hr>
+<h2>Image Insert</h2>
+<img src="https://blog.playo.co/wp-content/uploads/2017/12/ny3-blogcover-05.png" alt="Sports">   
+<hr>
+<section id="section1">
+<h3>Famous Players of Cricket</h3>
+<ul>
+<li><a href="https://www.google.com/search?q=virat+kohli&sxsrf=AOaemvLbTeH1l728_fnaU_AmGlYihxtJew:1632400979409&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjapYjEj5XzAhVy63MBHa2kByEQ_AUoAnoECAEQBA">Virat Kohli</a></li>
+<li><a href="https://www.google.com/search?q=rohit+sharma&sxsrf=AOaemvJyjMqeOO64Bs7-yoGMmiapZ4veJw:1632401039399&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj17dXgj5XzAhVw7XMBHVBKBw4Q_AUoAnoECAEQBA">Rohit Sharma</a></li>
+<li><a href="https://www.google.com/search?q=steve+smith&sxsrf=AOaemvLZlM1-wmDae0iulX7BD4Qo4Ib7jg:1632401084713&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj106P2j5XzAhU-7HMBHfVJD_4Q_AUoAnoECAEQBA">Steve Smith</a></li>
+</ul>
+</section><hr>
+<section id="section2">
+<h3>Famous Players of Football</h3>
+<ul>
+<li><a href="https://www.google.com/search?q=ronaldo&sxsrf=AOaemvJbJ2SKAwoBkESZlGtIdP07aDBwLg:1632401124784&source=lnms&tbm=isch&sa=X&ved=2ahUKEwihqLGJkJXzAhUM6XMBHUSxDfYQ_AUoAnoECAEQBA">Cristiano Ronaldo</a></li>
+<li><a href="https://www.google.com/search?q=messi&hl=en&sxsrf=AOaemvKqOAseT7LVDgVLYze2BluHYIVgGg:1632401178611&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj204ajkJXzAhUB8HMBHdfvB08Q_AUoAnoECAEQBA&biw=1366&bih=657&dpr=1">Lionel Messi</a></li>
+<li><a href="https://www.google.com/search?hl=en&sxsrf=AOaemvKqOAseT7LVDgVLYze2BluHYIVgGg:1632401178611&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj204ajkJXzAhUB8HMBHdfvB08Q_AUoAnoECAEQBA&cshid=1632401211350935&q=Zlatan%20Ibrahimovi%C4%87&lei=UndMYYCpB5OfmgfwgavADg&biw=1366&bih=657&dpr=1">Zlatan Ibrahimović</a></li>
+</ul>
+</section><hr>
+<section id="section3">
+<h3>Famous Players of Badminton</h3>
+<ul>
+<li><a href="https://www.google.com/search?q=Lee+Chong+Wei&sxsrf=AOaemvIGIKi4a-5w4fuNKra_F9nJc24w3g:1632401353403&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiYk7P2kJXzAhXEILcAHXH3Co0Q_AUoAnoECAEQBA&biw=1366&bih=600&dpr=1">Lee Chong Wei</a></li>
+<li><a href="https://www.google.com/search?q=Carolina+Marin&sxsrf=AOaemvKSqM9ku_jP9QPXLW0IvRJPpZyAMA:1632401395422&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjKz7eKkZXzAhV14XMBHTcKCxkQ_AUoAnoECAEQBA&biw=1366&bih=600&dpr=1">Carolina Marin</a></li> 
+<li><a href="https://www.google.com/search?q=pv+sindhu&sxsrf=AOaemvKUoP1BtuwF8GgXZTeXL-Lod-fpeA:1632401426269&source=lnms&tbm=isch&sa=X&ved=2ahUKEwigwpKZkZXzAhVR7HMBHS9ZA1gQ_AUoAnoECAEQBA&biw=1366&bih=600&dpr=1">PV Sindhu</a></li>
+</ul>
+</section><hr>
+</body>
+</html>

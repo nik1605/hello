@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> This is my first assignment.This is Ques 1 </title>
+</head>
+<body>
+<body style= background-color:lightblue>
+<h1> A simple HTML page with Text Formatting</h1>
+
+<p><b>Hello I am the example of BOLD.</b></p>
+<p><i>Hello I am the example of italic</i></p>
+<p><u> and I am example of underlined text</u></p>
+<hr>
+<p style= color:"red" >This is a Coloured text </p>
+<p style="font-family:Courier New; font-size:40px">An example of font formatting with different font size and width.</p>
+<p style="background-color:tomato;">This is a paragraph.</p>
+<hr>
+<p>We can also have <br> break just like this.</p>
+<p><marquee> Hello I am a marquee text ! </p>
+<hr>
+</body>
+</html>
